@@ -1,18 +1,18 @@
-##### Yep. Files
+# Yep. Files
 
-### Usage:
-# Install git
+## Usage:
+##### Install git
 - Arch:
 ```
 sudo pacman -S git
 ```
-# Install other stuff (optional):
+##### Install other stuff (optional):
 - Arch:
 ```
 sudo pacman -S cava neofetch starship neovim spotify spicetify
 ```
 
-# Clone and run setup.sh:
+##### Clone and run setup.sh:
 ```
 git clone https://github.com/DesantEu/dotfiles
 cd dotfiles
@@ -20,10 +20,10 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
-## Other things:
+#### Other things:
 [Firefox theme](https://addons.mozilla.org/en-US/firefox/addon/gruvbox-true-dark/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) 
 
-## TODO:
+#### TODO:
 - grub theme
 - telegram theme??
 - GTK/GDM themes
